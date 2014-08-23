@@ -1,0 +1,1 @@
+### This is a simple remake of the About Us page for Simple Pickup using jQuery and bootstrap. 
